@@ -1,2 +1,2 @@
-# Python_Taining_01
+# Python_Training_01
 Python training (Bogdan Stashchuk)
