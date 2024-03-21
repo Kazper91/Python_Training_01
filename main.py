@@ -1,6 +1,4 @@
-name = 'Igor';
-print(f'Hello {name}');
-print(10, 'Igor', True);
-print(dir()); #возвращает список всех атрибутов объекта
-print(dir(__builtins__)); #вывод встроенных в Python функций
-input("Enter your name:") #input запрос у пользователя ввода данных. Ввод данных не через интерпретатор Visual Code Studios
+name = input("Enter your name: ")
+age = input("Enter your age: ")
+city = input("Enter your city: ")
+print(f'Your name is {name}, you are {age} years old and you live in {city}. Nice to meet you.')
